@@ -8,7 +8,7 @@
       Ссылки:
       <a
         class="home-page__link"
-        href="https://github.com/Innzare/Product-Configurator"
+        href="https://github.com/Innzare/ConverterApp"
         target="_blank"
       >
         Исходный код </a
