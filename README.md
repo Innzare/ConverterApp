@@ -1,4 +1,14 @@
-# currency-app
+# Frontend application - Converter-App
+
+Deploy - [Converter-App](https://innzare-converter.netlify.app/)
+
+## Technologies used
+
+Frontend:
+
+- [Vue3](https://vuejs.org/) single page application
+- [Webpack-5](https://webpack.js.org/) module bundler
+- [SCSS](https://sass-lang.com/guide) styles
 
 This template should help get you started developing with Vue 3 in Vite.
 
