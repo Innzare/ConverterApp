@@ -7,7 +7,7 @@ Deploy - [Converter-App](https://innzare-converter.netlify.app/)
 Frontend:
 
 - [Vue3](https://vuejs.org/) single page application
-- [Webpack-5](https://webpack.js.org/) module bundler
+- [Vite](https://vitejs.dev/) module bundler
 - [SCSS](https://sass-lang.com/guide) styles
 
 This template should help get you started developing with Vue 3 in Vite.
