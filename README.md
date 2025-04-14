@@ -1,6 +1,6 @@
 # Frontend application - Converter-App
 
-Deploy - [Converter-App](https://innzare-converter.netlify.app/)
+Deploy - [Converter-App](https://innzare-converter-app.netlify.app/)
 
 ## Technologies used
 
