@@ -1,0 +1,1 @@
+export const CURRENCY_URL = "https://status.neuralgeneration.com/api/currency";
